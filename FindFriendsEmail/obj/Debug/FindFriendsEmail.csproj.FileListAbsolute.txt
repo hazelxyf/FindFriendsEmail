@@ -1,0 +1,7 @@
+C:\Users\ivanftp\Desktop\c#\FindFriendsEmail\FindFriendsEmail\FindFriendsEmail\obj\Debug\FindFriendsEmail.csprojAssemblyReference.cache
+C:\Users\ivanftp\Desktop\c#\FindFriendsEmail\FindFriendsEmail\FindFriendsEmail\obj\Debug\FindFriendsEmail.csproj.CoreCompileInputs.cache
+C:\Users\ivanftp\Desktop\c#\FindFriendsEmail\FindFriendsEmail\FindFriendsEmail\bin\Debug\FindFriendsEmail.exe.config
+C:\Users\ivanftp\Desktop\c#\FindFriendsEmail\FindFriendsEmail\FindFriendsEmail\bin\Debug\FindFriendsEmail.exe
+C:\Users\ivanftp\Desktop\c#\FindFriendsEmail\FindFriendsEmail\FindFriendsEmail\bin\Debug\FindFriendsEmail.pdb
+C:\Users\ivanftp\Desktop\c#\FindFriendsEmail\FindFriendsEmail\FindFriendsEmail\obj\Debug\FindFriendsEmail.exe
+C:\Users\ivanftp\Desktop\c#\FindFriendsEmail\FindFriendsEmail\FindFriendsEmail\obj\Debug\FindFriendsEmail.pdb
